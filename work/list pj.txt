@@ -1,0 +1,12 @@
+标记说明：
+参考reguler expression
+
+$$...$$                #问题积累
+
+**...**                #关键字
+-                      #项目列表
+
+<name_pj>...</name_pj> #工程名称
+<name_sj>...</name_sj> #设计单位
+<name_kc>...</name_kc> #勘察单位
+

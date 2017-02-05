@@ -1,0 +1,10 @@
+参考reguler expression
+
+&&...&&                #项目相关
+
+**...**                #关键字
+
+<name_pj>...</name_pj> #工程名称
+<name_sj>...</name_sj> #设计单位
+<name_kc>...</name_kc> #勘察单位
+
